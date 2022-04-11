@@ -41,7 +41,7 @@ Add the tables using
 
 Add the codes. Example: 11(DDD Origin), 16(DDD Destiny), 1.90(Value)
 
-![alt text](https://github.com/umserqualquer/telzir-app/blob/mail/test.png?raw=true)
+![alt text](https://github.com/umserqualquer/telzir-app/blob/main/test.png)
 
 | **Required** 	| **Key**           | **Value**         |
 |---------------|-------------------|-------------------|
