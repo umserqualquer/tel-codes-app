@@ -62,3 +62,11 @@ Add the connections. Example: Origem(DDD Origin), Destino(DDD Destiny), Total de
 So you will get the results
 
 ![alt text](https://github.com/umserqualquer/telzir-app/blob/main/resources/images/history_example.png)
+
+## Folders
+
+- `app/Models` - Contains all the Eloquent models
+- `app/Http/Controllers` - Contains all the api controllers
+- `database/migrations` - Contains all the database migrations
+- `resources/js/components` - Contains all the vue components
+- `resources/views` - Contains all the blade views
