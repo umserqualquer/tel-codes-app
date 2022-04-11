@@ -39,21 +39,26 @@ Add the tables using
 
 ## Tutorial
 
-Add the codes. Example: 11(DDD Origin), 16(DDD Destiny), 1.90(Value)
+Create a user on the page
 
-![alt text](https://github.com/umserqualquer/telzir-app/blob/main/test.png)
+    localhost/register
 
-| **Required** 	| **Key**           | **Value**         |
-|---------------|-------------------|-------------------|
-| Yes      	    | Content-Type     	| application/json 	|
-| Yes      	    | X-Requested-With 	| XMLHttpRequest   	|
-| Optional 	    | Authorization    	| Token {JWT}      	|
+Login to the user on the page
 
+    localhost/login
 
+Add the codes. Example: Origem(DDD Origin), Destino(DDD Destiny) and Valor(Value)
 
+![alt text](https://github.com/umserqualquer/telzir-app/blob/main/resources/images/code_example.png)
 
+Add the plans. Example: Nome(Plan Name) and Valor(Plan Value)
 
+![alt text](https://github.com/umserqualquer/telzir-app/blob/main/resources/images/plan_example.png)
 
+Add the connections. Example: Origem(DDD Origin), Destino(DDD Destiny), Total de Minutos(Connection Time) and Planos(Plans)
 
+![alt text](https://github.com/umserqualquer/telzir-app/blob/main/resources/images/connection_example.png)
 
+So you will get the results
 
+![alt text](https://github.com/umserqualquer/telzir-app/blob/main/resources/images/history_example.png)
